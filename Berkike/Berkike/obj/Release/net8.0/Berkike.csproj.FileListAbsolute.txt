@@ -1,0 +1,4 @@
+C:\Users\marod\source\repos\Berkike\Berkike\obj\Release\net8.0\Berkike.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marod\source\repos\Berkike\Berkike\obj\Release\net8.0\Berkike.AssemblyInfoInputs.cache
+C:\Users\marod\source\repos\Berkike\Berkike\obj\Release\net8.0\Berkike.AssemblyInfo.cs
+C:\Users\marod\source\repos\Berkike\Berkike\obj\Release\net8.0\Berkike.csproj.CoreCompileInputs.cache
